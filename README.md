@@ -1,4 +1,4 @@
-# Remedy-Ticket-Classification
+# Remedy Ticket Classification
 ## Problem statement
 BMC Remedy is an ITSM application that provides incident, problem management and information technology service management capabilities. This technology is offered both as an on-premises edition and a PaaS edition. IFMY IT FSC MFW uses remedy for ticket management. These tickets will be created if an issue is raised to the service desk by the user. The service desk then passes the ticket to the IT ESH team. The IT ESH team will decide and pass the ticket to the service provider if they cannot resolve the issue by themselves. Service provider then will resolve the issue and the process ends there. 
 
